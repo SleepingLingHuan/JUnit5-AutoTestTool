@@ -1,5 +1,6 @@
 # JUnit5-AutoTestTool
-A JUnit5 AutoTestTool, which is my Java course task.
+A JUnit5 AutoTestTool, which is my Java course task. 一个JUnit5自动化测试工具，是我的Java课程任务。
+
 First, you need to download the JUnit 5 Mockito Code Generator plugin in Settings - Plugins.
 
 Write the Java class file that you want to Test in the "JUnit5" package, then right-click the file, click Generate - Test, select the target file package as "Test", and select the functions that you want to test. Then write the test cases in the generated test files.
